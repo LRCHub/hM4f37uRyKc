@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "偽物勇者",
+  "base_artist": "703号室",
+  "createdAt": "2025-12-17T15:49:30.720728Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "偽物勇者",
+      "artist": "703号室",
+      "has_synced": false,
+      "path": "select/pl_01_偽物勇者_703号室.txt"
+    }
+  ]
+}
